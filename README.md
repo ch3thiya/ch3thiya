@@ -6,5 +6,5 @@ I’m a Computer Science undergraduate who loves technology and finding creative
 <br>
 <b>Chethiya Ravindranath<b>
 <br>
-<a href="https://www.linkedin.com/in/chethiya-ravindranath-64a1b5329/">Linkedin</a> | <a href="https://www.instagram.com/ch3thiya">Instagram</a>
+<a href="https://chethiya.vercel.app/">Portfolio</a> | <a href="https://www.linkedin.com/in/chethiya-ravindranath-64a1b5329/">Linkedin</a> | <a href="https://www.instagram.com/ch3thiya">Instagram</a>
 </p>
