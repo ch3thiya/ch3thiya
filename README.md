@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Chethiya Ravindranath
-I'm a Computer Science undergraduate who loves technology and is passionate about turning ideas into useful applications. I enjoy using my skills to create smart solutions while continuously learning new techniques. I have hands-on experience working on projects involving web development and automation.
+I'm a Computer Science undergraduate who loves technology and is passionate about turning ideas into useful applications. I enjoy using my skills to create smart solutions while continuously learning new techniques.
 <br>I’m always up for learning something new and would love to collaborate on projects with others.
 <br>Feel free to reach out—let’s build something great together! 💫
 
