@@ -8,7 +8,7 @@ I'm a Computer Science undergraduate who loves technology and is passionate abou
 - **Backend & Database Management** – PHP, MySQL, Rest API Development, API Integration
 - **Frontend Development** – JavaScript, Bootstrap, HTML5 & CSS3, WordPress, Figma
 - **Web Scraping & Automation** – Selenium, BeautifulSoup
-- **IoT & Robotics** – Arduino, ESP32, NodeMCU, RFID
+- **IoT & Robotics** – Arduino, ESP32, NodeMCU
 
 ## Overview  
 ![Skill area](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3thiya&layout=compact&theme=radical)  
