@@ -12,5 +12,7 @@ I'm a Computer Science undergraduate who loves technology and is passionate abou
 ## Let's Connect!  
 <b>Chethiya Ravindranath<b>
 <br>
-<a href="ac.ravindranathbc@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chethiya-ravindranath-64a1b5329/">Linkedin</a>
+ac.ravindranathbc@gmail.com
+<br>
+<a href="https://www.linkedin.com/in/chethiya-ravindranath-64a1b5329/">Linkedin</a>
 </p> 
