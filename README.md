@@ -9,9 +9,6 @@ I'm a Computer Science undergraduate who loves technology and is passionate abou
 - **Frontend Development** - React, Tailwind CSS, Bootstrap, HTML5 & CSS3, WordPress, Figma
 - **Web Scraping & Automation** - Selenium, BeautifulSoup
 
-## Overview  
-![Skill area](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3thiya&layout=compact&theme=radical)  
-
 ## Let's Connect!  
 <b>Chethiya Ravindranath<b>
 <br>
