@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Chethiya Ravindranath
 I'm a Computer Science undergraduate who loves technology and is passionate about turning ideas into useful applications. I enjoy using my skills to create smart solutions while continuously learning new techniques.
 <br>I’m always up for learning something new and would love to collaborate on projects with others.
-<br>Feel free to reach out—let’s build something great together! 💫
+<br>Feel free to reach out, let’s build something great together! 💫
 
 ## Tech Stack  
 - **Full-Stack Web Development** - Laravel, Django, Flask
