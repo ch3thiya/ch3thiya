@@ -4,10 +4,11 @@ I'm a Computer Science undergraduate who loves technology and is passionate abou
 <br>Feel free to reach out, let’s build something great together! 💫
 
 ## Tech Stack  
-- **Full-Stack Web Development** - Laravel, Django, Flask
-- **Backend & Database Management** - PHP, MySQL, Rest API Development, API Integration
-- **Frontend Development** - React, Tailwind CSS, Bootstrap, HTML5 & CSS3, WordPress, Figma
-- **Web Scraping & Automation** - Selenium, BeautifulSoup
+- **Backend Development** - Django, Flask, Rest API Development, API Integration
+- **Frontend Development** - React, Tailwind CSS, Bootstrap
+- **Databases** - MySQL, PostgreSQL, SQL
+- **DevOps & Cloud** - Docker, CI/CD Pipelines, AWS
+- **Tools & Libraries** - Figma, Selenium, BeautifulSoup, NumPy, pandas
 
 ## Let's Connect!  
 <b>Chethiya Ravindranath<b>
