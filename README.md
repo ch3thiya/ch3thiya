@@ -1,18 +1,70 @@
-## Hi there 👋 I'm Chethiya Ravindranath
-I'm a Computer Science undergraduate who loves technology and is passionate about turning ideas into useful applications. I enjoy using my skills to create smart solutions while continuously learning new techniques.
-<br>I’m always up for learning something new and would love to collaborate on projects with others.
-<br>Feel free to reach out, let’s build something great together! 💫
+# ⚡ System.init("Chethiya Ravindranath")
 
-## Tech Stack  
-- **Backend Development** - Django, Flask, REST APIs, FastAPI
-- **Frontend Development** - React, Tailwind CSS, Bootstrap
-- **DevOps & Cloud** - Docker, CI/CD Pipelines, AWS
-- **Tools & Libraries** - Figma, Selenium, BeautifulSoup, NumPy, pandas
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20Data-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-orange?style=flat-square" />
+</p>
 
-## Let's Connect!  
-<b>Chethiya Ravindranath<b>
-<br>
-ac.ravindranathbc@gmail.com
-<br>
-<a href="https://www.linkedin.com/in/chethiya-ravindranath/">Linkedin</a>
-</p> 
+---
+
+## 👨‍💻 whoami
+
+I am a Computer Science Undergraduate and Full Stack Developer with a strong foundation in backend and frontend development.  
+Alongside this, I am actively learning and transitioning into Data Engineering and Data Science, developing a solid understanding of data handling, exploration, and foundational concepts.
+
+---
+
+## 🛠️ Tech Stack
+
+```python
+class Developer:
+    def __init__(self):
+
+        # Backend & APIs (Production-ready)
+        self.backend = [
+            "Django", "Flask", "FastAPI",
+            "REST API Development", "API Integration"
+        ]
+
+        # Frontend
+        self.frontend = [
+            "React", "Tailwind CSS", "Bootstrap"
+        ]
+
+        # Data & Databases (Learning & Applying)
+        self.data = [
+            "PostgreSQL", "MySQL", "SQL",
+            "Pandas", "NumPy", "Exploratory Data Analysis"
+        ]
+
+        # DevOps & Infrastructure
+        self.devops = [
+            "Docker", "AWS", "CI/CD", "GitHub Actions"
+        ]
+
+        # Tools & Automation
+        self.tools = [
+            "Selenium", "BeautifulSoup", "Figma"
+        ]
+```
+
+---
+
+## 🚀 What I Work On
+- Full stack web applications  
+- RESTful APIs and backend systems  
+- Learning and building data pipelines and analytics workflows  
+- Automation, scraping, and workflow optimization  
+- Cloud ready deployments and CI/CD pipelines  
+
+---
+
+## 🔗 Let's Connect
+
+**Chethiya Ravindranath**  
+📧 ac.ravindranathbc@gmail.com  
+🔗 <a href="https://www.linkedin.com/in/chethiya-ravindranath/">LinkedIn</a>  
+📷 <a href="https://www.instagram.com/ch3thiya/">Instagram</a>  
+
+---
