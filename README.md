@@ -1,7 +1,5 @@
 # ⚡ System.init("Chethiya Ravindranath")
 
----
-
 ## 👨‍💻 whoami
 
 I am a Computer Science Undergraduate and Full Stack Developer with a strong foundation in backend and frontend development.  
