@@ -47,7 +47,7 @@ class Developer:
 
 ## 📊 Programming Language Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3thiya)](https://github.com/ch3thiya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3thiya&layout=compact)](https://github.com/ch3thiya/github-readme-stats)
 
 ---
 
