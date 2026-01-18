@@ -45,12 +45,6 @@ class Developer:
 
 ---
 
-## 📊 Programming Language Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3thiya&layout=compact)](https://github.com/ch3thiya/github-readme-stats)
-
----
-
 ## 🔗 Let's Connect
 
 **Chethiya Ravindranath**  
