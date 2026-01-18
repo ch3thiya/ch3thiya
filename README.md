@@ -1,11 +1,5 @@
 # ⚡ System.init("Chethiya Ravindranath")
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20Data-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-orange?style=flat-square" />
-</p>
-
 ---
 
 ## 👨‍💻 whoami
@@ -21,29 +15,24 @@ Alongside this, I am actively learning and transitioning into Data Engineering a
 class Developer:
     def __init__(self):
 
-        # Backend & APIs (Production-ready)
         self.backend = [
             "Django", "Flask", "FastAPI",
             "REST API Development", "API Integration"
         ]
 
-        # Frontend
         self.frontend = [
             "React", "Tailwind CSS", "Bootstrap"
         ]
 
-        # Data & Databases (Learning & Applying)
         self.data = [
             "PostgreSQL", "MySQL", "SQL",
             "Pandas", "NumPy", "Exploratory Data Analysis"
         ]
 
-        # DevOps & Infrastructure
         self.devops = [
             "Docker", "AWS", "CI/CD", "GitHub Actions"
         ]
 
-        # Tools & Automation
         self.tools = [
             "Selenium", "BeautifulSoup", "Figma"
         ]
