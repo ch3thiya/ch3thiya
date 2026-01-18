@@ -1,5 +1,3 @@
-# ⚡ System.init("Chethiya Ravindranath")
-
 ## 👨‍💻 whoami
 
 I am a Computer Science Undergraduate and Full Stack Developer with a strong foundation in backend and frontend development.  
@@ -44,6 +42,12 @@ class Developer:
 - Learning and building data pipelines and analytics workflows  
 - Automation, scraping, and workflow optimization  
 - Cloud ready deployments and CI/CD pipelines  
+
+---
+
+## 📊 Programming Language Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch3thiya&layout=compact&hide_border=true" /> </p>
 
 ---
 
