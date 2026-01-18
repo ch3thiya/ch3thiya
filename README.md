@@ -4,9 +4,8 @@ I'm a Computer Science undergraduate who loves technology and is passionate abou
 <br>Feel free to reach out, let’s build something great together! 💫
 
 ## Tech Stack  
-- **Backend Development** - Django, Flask, Rest API Development, API Integration
+- **Backend Development** - Django, Flask, REST APIs, FastAPI
 - **Frontend Development** - React, Tailwind CSS, Bootstrap
-- **Databases** - MySQL, PostgreSQL, SQL
 - **DevOps & Cloud** - Docker, CI/CD Pipelines, AWS
 - **Tools & Libraries** - Figma, Selenium, BeautifulSoup, NumPy, pandas
 
