@@ -47,7 +47,7 @@ class Developer:
 
 ## 📊 Programming Language Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch3thiya&layout=compact&hide_border=true" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch3thiya)](https://github.com/ch3thiya/github-readme-stats)
 
 ---
 
@@ -57,5 +57,3 @@ class Developer:
 📧 ac.ravindranathbc@gmail.com  
 🔗 <a href="https://www.linkedin.com/in/chethiya-ravindranath/">LinkedIn</a>  
 📷 <a href="https://www.instagram.com/ch3thiya/">Instagram</a>  
-
----
