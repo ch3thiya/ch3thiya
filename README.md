@@ -1,6 +1,6 @@
 ## 👨‍💻 whoami
 
-I am a Computer Science Undergraduate and Full Stack Developer with a strong foundation in backend and frontend development.  
+I am a Computer Science Undergraduate and a Full Stack Web Developer.  
 Alongside this, I am actively learning and transitioning into Data Engineering and Data Science, developing a solid understanding of data handling, exploration, and foundational concepts.
 
 ## 🛠️ Tech Stack
