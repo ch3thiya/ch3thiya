@@ -3,33 +3,6 @@
 I am a Computer Science Undergraduate and a Full Stack Web Developer.  
 Alongside this, I am actively learning and transitioning into Data Engineering and Data Science, developing a solid understanding of data handling, exploration, and foundational concepts.
 
-## 🛠️ Tech Stack
-
-```python
-class Developer:
-    def __init__(self):
-
-        self.backend = [
-            "Django", "Flask", "FastAPI",
-            "REST API Development", "API Integration"
-        ]
-
-        self.frontend = [
-            "React", "Tailwind CSS", "Bootstrap"
-        ]
-
-        self.data = [
-            "PostgreSQL", "MySQL", "SQL",
-            "Pandas", "NumPy", "Exploratory Data Analysis"
-        ]
-
-        self.devops = [
-            "Docker", "AWS", "CI/CD", "GitHub Actions"
-        ]
-
-        self.tools = [
-            "Selenium", "BeautifulSoup", "Figma"
-        ]
 ```
 
 ## 🚀 What I Work On
