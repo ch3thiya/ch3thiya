@@ -3,8 +3,6 @@
 I am a Computer Science Undergraduate and a Full Stack Web Developer.  
 Alongside this, I am actively learning and transitioning into Data Engineering and Data Science, developing a solid understanding of data handling, exploration, and foundational concepts.
 
-```
-
 ## 🚀 What I Work On
 - Full stack web applications  
 - RESTful APIs and backend systems  
