@@ -12,6 +12,6 @@ I am a Computer Science Undergraduate and a Full Stack Web Developer.
 ## 🔗 Let's Connect
 
 **Chethiya Ravindranath**  
-ac.ravindranathbc@gmail.com  
+chethiya.ravindranath@gmail.com  
 <a href="https://www.linkedin.com/in/chethiya-ravindranath/">LinkedIn</a>  
 <a href="https://www.instagram.com/ch3thiya/">Instagram</a>  
